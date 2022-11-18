@@ -1,2 +1,2 @@
-Пример API блога на Django REST Framefork.
-По материалам [статьи](https://pythonru.com/uroki/django-rest-api)
+Django REST Framework blog API example.
+Based on [article](https://pythonru.com/uroki/django-rest-api)
